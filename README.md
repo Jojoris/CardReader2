@@ -1,2 +1,0 @@
-# CardReader2
-Stage
